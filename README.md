@@ -20,7 +20,7 @@
 - [ ] Part 8 : Kim
 
 
-- TODO 
+## TODO 
 1. Add folder for storing implementation of A. Juliani's posts
 2. Make some helpful material list in 'Readme' or other markdown file
 3. ... I don't know 
