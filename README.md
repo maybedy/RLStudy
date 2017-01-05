@@ -1,4 +1,4 @@
-# ReinforcementLearningStudy
+# Reinforcement Learning Study
 - Team study repository
 - Member : kim, yang, moon, jang, oh
 
