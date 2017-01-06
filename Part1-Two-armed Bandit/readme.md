@@ -1,3 +1,4 @@
+# Part1 - Two-armed Bandit
 - Sangbin Moon
 
 ## Material
