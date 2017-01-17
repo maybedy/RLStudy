@@ -9,9 +9,9 @@
 
 
 - [X] Part 0 : Oh 
-- [ ] Part 1 : Moon 
-- [ ] Part 1.5 : Jang ? 
-- [ ] Part 2 : Yang ?
+- [X] Part 1 : Moon 
+- [ ] Part 1.5 : Jang 
+- [ ] Part 2 : Yang
 - [ ] Part 3 : Kim
 - [ ] Part 4 : Oh
 - [ ] Part 5 : Moon
