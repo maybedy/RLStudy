@@ -10,15 +10,19 @@
 
 - [X] Part 0 : Oh 
 - [X] Part 1 : Moon 
-- [ ] Part 1.5 : Jang 
-- [ ] Part 2 : Yang
-- [ ] Part 3 : Kim
-- [ ] Part 4 : Oh
-- [ ] Part 5 : Moon
-- [ ] Part 6 : Jang
-- [ ] Part 7 : Yang
-- [ ] Part 8 : Kim
+- [X] Part 1.5 : Jang 
+- [X] Part 2 : Yang
+- [X] Part 3 : Kim
+- [ ] Part 4 : You
+- [ ] Part 5 : You
+- [ ] Part 6 : Oh
+- [ ] Part 7 : Moon
+- [ ] Part 8 : Jang
+- [ ] New thing : Yang
+- [ ] New thing : Kim
 
+
+# 
 
 ## TODO 
 1. Add folder for storing implementation of A. Juliani's posts
