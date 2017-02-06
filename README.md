@@ -28,3 +28,6 @@
 1. Add folder for storing implementation of A. Juliani's posts
 2. Make some helpful material list in 'Readme' or other markdown file
 3. Add course materials for each part
+
+# Rich. Sutton's reinforcement learning book(2nd edition, 2017 draft)
+https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html
