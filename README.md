@@ -26,7 +26,7 @@ https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html
 - [X] RL Ch 3 : Yang
 - [ ] RL Ch 4 : Kim
 
-
+## ETC
 ### TODO 
 - Make some helpful material list in 'Readme' or other markdown file
 - Add course materials for each part
