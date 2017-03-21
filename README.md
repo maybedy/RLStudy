@@ -35,4 +35,4 @@ https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html
 - http://selfdrivingcars.mit.edu/
 - https://hunkim.github.io/ml/
 - http://aiworld.io/
-- 
+- https://github.com/maybedy/RLStudy/blob/master/reading_list.md
