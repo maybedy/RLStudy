@@ -1,6 +1,6 @@
 # Reinforcement Learning Study
 - Team study repository
-- Member : kim, yang, moon, jang, oh, yu, yu
+- Member : kim, yang, moon, jang, oh, yu, yu, seok
 
 ## Material
 ### Arthur Juliani's "Simple Reinforcement Learning with Tensorflow" post series 
@@ -24,7 +24,24 @@ https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html
 - [X] Part 8 : Jang
 ### Rich. Suttion's RL book
 - [X] RL Ch 3 : Yang
-- [ ] RL Ch 4 : Kim
+- [X] RL Ch 4 : Kim
+- [ ] RL Ch 5 : Yu(MOON)
+- [ ] RL Ch 6 : Yu(SH)
+- [ ] RL Ch 7 : Oh
+- [ ] RL Ch 8 : Moon 
+- [ ] RL Ch 9 : Jang
+- [ ] RL Ch 10 : Seok
+- [ ] RL Ch 11 : Yang
+- [ ] RL Ch 12 : Kim
+- [ ] RL Ch 13 : Yu(MOON)
+- [ ] RL Ch 14 : Yu(SH)
+- [ ] RL Ch 15 : Oh
+- [ ] RL Ch 16 : Moon 
+- [ ] ... : Jang
+- [ ] ... : Seok
+- [ ] ... : Yang
+- [ ] ... : Kim
+
 
 ## ETC
 ### TODO 
