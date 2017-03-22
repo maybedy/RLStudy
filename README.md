@@ -53,3 +53,4 @@ https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html
 - https://hunkim.github.io/ml/
 - http://aiworld.io/
 - https://github.com/maybedy/RLStudy/blob/master/reading_list.md
+- http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
