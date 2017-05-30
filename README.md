@@ -8,7 +8,7 @@
 - See here(Part 0 of the series) -> https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
 ### Rich. Sutton's reinforcement learning book(2nd edition, 2017 draft)
 - 20170315 ~
-https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html
+http://incompleteideas.net/sutton/book/the-book-2nd.html
 
 ## Weekly plan
 ### Aw Juliani's post series
