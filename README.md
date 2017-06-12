@@ -29,12 +29,12 @@ http://incompleteideas.net/sutton/book/the-book-2nd.html
 - [X] RL Ch 6 : Yu(SH)
 - [X] RL Ch 7 : Oh
 - [X] RL Ch 8 : Moon 
-- [ ] RL Ch 9 : Jang
-- [ ] RL Ch 10 : Seok
-- [ ] RL Ch 11 : Yang
-- [ ] RL Ch 12 : Kim
+- [X] RL Ch 9 : Jang
+- [X] RL Ch 10 : Seok
+- [X] RL Ch 11 : Yang
+- [X] RL Ch 12 : Kim
 - [ ] RL Ch 13 : Yu(MOON)
-- [ ] RL Ch 14 : Yu(SH)
+- [ ] RL Ch 14 : Yu(SH) -----------------> Discussion required (what to study)
 - [ ] RL Ch 15 : Oh
 - [ ] RL Ch 16 : Moon 
 - [ ] ... : Jang
