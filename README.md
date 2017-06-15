@@ -43,8 +43,12 @@ http://incompleteideas.net/sutton/book/the-book-2nd.html
 - [ ] ... : Kim
 
 ## Candidates
-- 1. NIPS 2017
-- 2. 
+- 1. NIPS 2017 : 
+  - It is hard to find papers to study
+- 2. Reinforcement learning papers : 
+- 3. Deep RL papers : better archiecture or high performance
+
+- Conclusion : NIPS or DeepMind or Well-made papers 
 
 ## ETC
 ### TODO 
