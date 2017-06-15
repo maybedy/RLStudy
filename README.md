@@ -34,14 +34,17 @@ http://incompleteideas.net/sutton/book/the-book-2nd.html
 - [X] RL Ch 11 : Yang
 - [X] RL Ch 12 : Kim
 - [ ] RL Ch 13 : Yu(MOON)
-- [ ] RL Ch 14 : Yu(SH) -----------------> Discussion required (what to study)
-- [ ] RL Ch 15 : Oh
-- [ ] RL Ch 16 : Moon 
+- [ ] RL Ch 16 : Moon
+- [ ] ... : Oh
+- [ ] ... : Yu(SH)
 - [ ] ... : Jang
 - [ ] ... : Seok
 - [ ] ... : Yang
 - [ ] ... : Kim
 
+## Candidates
+- 1. NIPS 2017
+- 2. 
 
 ## ETC
 ### TODO 
